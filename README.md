@@ -3,6 +3,18 @@ This is the scripts where all the unity game basic scripts are available - Unity
 
 ![image](https://github.com/user-attachments/assets/737a1c11-b8aa-4d8a-a43d-56436ddb48ca)
 
+[Uploading Animations.meta…]()
+
+[Uploading ControlfileFormatVersion: 2
+guid: c684e269537fa254a899da909501f536
+folderAsset: yes
+timeCreated: 1473952105
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+lers.meta…]()
 
 # DecalDestroyer
 ```
